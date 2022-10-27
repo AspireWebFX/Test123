@@ -11,8 +11,8 @@
         }
     },
     "candymachine": {
-        "cmPublicKey": "0x676e4d9cbc466195cc643299e4f621e84f48125b6922325cb93471661a47dc71",
-        "cmPrivateKey": "0xd8d6bb91688749bd4d85c5f6d4a370caac6e8c91c661e62718fa93d112bfe24d"
+        "cmPublicKey": "0x6df40f46d588344a6f17410d14618fe447decf81f41f168834994db29a03e6ce",
+        "cmPrivateKey": "0x294f5d7d3617e071cf64e49797f1b3df9855777025088ef77df87cb5dad012fc"
     },
     "collection": {
         "assetDir": "C:/Users/User/Desktop/test123/assets/images",
