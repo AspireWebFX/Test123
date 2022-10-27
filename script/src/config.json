@@ -22,11 +22,11 @@
         "collectionCover": "",
         "collectionSize": 10,
         "maxMintPerWallet": 3,
-        "mintFee": 100,
+        "mintFee": 50000000,
         "royalty_points_denominator": 1000,
         "royalty_points_numerator": 100,
-        "presaleMintTime": 100000000,
-        "publicMintTime": 100000000,
+        "presaleMintTime": 1666817449,
+        "publicMintTime": 1666818649,
         "whitelistDir": "C:/Users/User/Desktop/test123/assets"
     }
 }
