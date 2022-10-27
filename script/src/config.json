@@ -11,15 +11,15 @@
         }
     },
     "candymachine": {
-        "cmPublicKey": "",
-        "cmPrivateKey": ""
+        "cmPublicKey": "0x050fcb7dca749c4f695b2b5a270c2f8b0bcdd15a4039b9e5dfa0802d02edc4eb",
+        "cmPrivateKey": "0xeef2ed75ad912dada98e4018d63405b71b233775c593d8cb56e433ea835edeeb"
     },
     "collection": {
         "assetDir": "C:/Users/User/Desktop/test123/assets/images",
         "metadataDir": "C:/Users/User/Desktop/test123/assets/metadata",
         "collectionName": "Test123",
         "collectionDescription": "Testing Mic",
-        "collectionCover": "",
+        "collectionCover": "https://cloudflare-ipfs.com/ipfs/QmXy8aM681RLxFhdnfyB6BVoz2vBLpbp1NKFtuNNypeo2q",
         "collectionSize": 10,
         "maxMintPerWallet": 3,
         "mintFee": 50000000,
