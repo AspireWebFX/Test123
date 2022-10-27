@@ -11,22 +11,22 @@
         }
     },
     "candymachine": {
-        "cmPublicKey": "0x3b3a0901cfc91b289cd16b62b28fd850e52a2921d463945a3722c33a81bad453",
-        "cmPrivateKey": "0x80fd0f609fe180f44db7c3dde7704daf53a621e602a86bf461ac2cfe0b28370a"
+        "cmPublicKey": "",
+        "cmPrivateKey": ""
     },
     "collection": {
-        "assetDir": "/Users/Shared/assets/images",
-        "metadataDir": "/Users/Shared/assets/metadata",
-        "collectionName": "TestCollection101",
-        "collectionDescription": "placeholder",
+        "assetDir": "C:/Users/User/Desktop/test123/assets/images",
+        "metadataDir": "C:/Users/User/Desktop/test123/assets/metadata",
+        "collectionName": "Test123",
+        "collectionDescription": "Testing Mic",
         "collectionCover": "",
         "collectionSize": 10,
         "maxMintPerWallet": 3,
-        "mintFee": 10,
+        "mintFee": 100,
         "royalty_points_denominator": 1000,
         "royalty_points_numerator": 100,
         "presaleMintTime": 100000000,
         "publicMintTime": 100000000,
-        "whitelistDir": "/Users/Shared/assets"
+        "whitelistDir": "C:/Users/User/Desktop/test123/assets"
     }
 }
