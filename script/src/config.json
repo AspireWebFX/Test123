@@ -3,8 +3,8 @@
         "solution": "pinata",
         "pinata": {
             "pinataApi": "https://api.pinata.cloud/pinning/pinFileToIPFS",
-            "pinataPublicKey": "4a97fd92b25010574a74",
-            "pinataSecretKey": "896ab1fed5b47a846719ecaf8e6d412ce585f554d26a6e719081a2501727cd27"
+            "pinataPublicKey": "4646cd6d49c13ae54d88",
+            "pinataSecretKey": "98849913080949ada054442302ac9c68eb7cc7e3741d311afb1d0e723284cad7"
         },
         "arweave": {
             "keyfilePath": "/Users/Shared/arweave-keyfile.json"
@@ -17,10 +17,10 @@
     "collection": {
         "assetDir": "C:/Users/User/Desktop/test123/assets/images",
         "metadataDir": "C:/Users/User/Desktop/test123/assets/metadata",
-        "collectionName": "Test123",
-        "collectionDescription": "Testing Mic",
-        "collectionCover": "https://cloudflare-ipfs.com/ipfs/QmXy8aM681RLxFhdnfyB6BVoz2vBLpbp1NKFtuNNypeo2q",
-        "collectionSize": 10,
+        "collectionName": "AptosMonster",
+        "collectionDescription": "AptosMonster collect of 50 monster",
+        "collectionCover": "",
+        "collectionSize": 50,
         "maxMintPerWallet": 3,
         "mintFee": 50000000,
         "royalty_points_denominator": 1000,

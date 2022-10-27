@@ -1,5 +1,5 @@
-export const candyMachineAddress = "0x676e4d9cbc466195cc643299e4f621e84f48125b6922325cb93471661a47dc71";
-export const collectionName = "Test123"; // Case sensitive!
+export const candyMachineAddress = "0x6df40f46d588344a6f17410d14618fe447decf81f41f168834994db29a03e6ce";
+export const collectionName = "AptosMonster"; // Case sensitive!
 export const collectionCoverUrl = "https://cloudflare-ipfs.com/ipfs/QmbNB4GzfpZJzMPw2qS5DEqbdnBJcmYDESPKA6bWyH1Dcm";
 export const mode = "mainnet"; // "dev" or "test" or "mainnet"
 
