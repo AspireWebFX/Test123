@@ -3,8 +3,8 @@
         "solution": "pinata",
         "pinata": {
             "pinataApi": "https://api.pinata.cloud/pinning/pinFileToIPFS",
-            "pinataPublicKey": "4b667c45c40242b041da",
-            "pinataSecretKey": "aceba97fe40b499a253b1dc1d61d2cab6d1a44e74d977ac87f7614fa3a1c837b"
+            "pinataPublicKey": "4a97fd92b25010574a74",
+            "pinataSecretKey": "896ab1fed5b47a846719ecaf8e6d412ce585f554d26a6e719081a2501727cd27"
         },
         "arweave": {
             "keyfilePath": "/Users/Shared/arweave-keyfile.json"
