@@ -5,7 +5,7 @@ export const mode = "mainnet"; // "dev" or "test" or "mainnet"
 
 export let NODE_URL;
 export const CONTRACT_ADDRESS = "0x481efbf0c3cbec627b5f5674287d4ae6ee770da5949dcfe698a8520108236a33";
-export const COLLECTION_SIZE = 10
+export const COLLECTION_SIZE = 50
 let FAUCET_URL;
 if (mode == "dev") {
     NODE_URL = "https://fullnode.devnet.aptoslabs.com/v1";
